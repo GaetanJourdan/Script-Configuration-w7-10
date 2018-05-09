@@ -1,0 +1,28 @@
+<LayoutModificationTemplate xmlns:defaultlayout="http://schemas.microsoft.com/Start/2014/FullDefaultLayout" xmlns:start="http://schemas.microsoft.com/Start/2014/StartLayout" Version="1" xmlns="http://schemas.microsoft.com/Start/2014/LayoutModification">
+  <LayoutOptions StartTileGroupCellWidth="6" />
+  <DefaultLayoutOverride>
+    <StartLayoutCollection>
+      <defaultlayout:StartLayout GroupCellWidth="6">
+        <start:Group Name="">
+          <start:DesktopApplicationTile Size="2x2" Column="0" Row="0" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk" />
+          <start:Tile Size="1x1" Column="3" Row="7" AppUserModelID="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App" />
+          <start:Tile Size="1x1" Column="3" Row="6" AppUserModelID="Microsoft.WindowsAlarms_8wekyb3d8bbwe!App" />
+          <start:DesktopApplicationTile Size="2x2" Column="0" Row="2" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk" />
+          <start:Tile Size="2x2" Column="2" Row="0" AppUserModelID="microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.mail" />
+          <start:Tile Size="2x2" Column="4" Row="0" AppUserModelID="microsoft.windowscommunicationsapps_8wekyb3d8bbwe!microsoft.windowslive.calendar" />
+          <start:Tile Size="2x2" Column="2" Row="2" AppUserModelID="Microsoft.Windows.Photos_8wekyb3d8bbwe!App" />
+          <start:Tile Size="1x1" Column="2" Row="6" AppUserModelID="Microsoft.WindowsMaps_8wekyb3d8bbwe!App" />
+          <start:Tile Size="1x1" Column="5" Row="3" AppUserModelID="Microsoft.Windows.SecHealthUI_cw5n1h2txyewy!SecHealthUI" />
+          <start:Tile Size="1x1" Column="4" Row="2" AppUserModelID="Microsoft.ZuneMusic_8wekyb3d8bbwe!Microsoft.ZuneMusic" />
+          <start:Tile Size="1x1" Column="5" Row="2" AppUserModelID="Microsoft.ZuneVideo_8wekyb3d8bbwe!Microsoft.ZuneVideo" />
+          <start:Tile Size="2x2" Column="0" Row="4" AppUserModelID="Microsoft.BingWeather_8wekyb3d8bbwe!App" />
+          <start:Tile Size="4x2" Column="2" Row="4" AppUserModelID="Microsoft.BingNews_8wekyb3d8bbwe!AppexNews" />
+          <start:Tile Size="2x2" Column="4" Row="6" AppUserModelID="Microsoft.WindowsStore_8wekyb3d8bbwe!App" />
+          <start:Tile Size="2x2" Column="0" Row="6" AppUserModelID="Microsoft.MSPaint_8wekyb3d8bbwe!Microsoft.MSPaint" />
+          <start:Tile Size="1x1" Column="2" Row="7" AppUserModelID="Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe!App" />
+          <start:Tile Size="1x1" Column="4" Row="3" AppUserModelID="windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel" />
+        </start:Group>
+      </defaultlayout:StartLayout>
+    </StartLayoutCollection>
+  </DefaultLayoutOverride>
+</LayoutModificationTemplate>
